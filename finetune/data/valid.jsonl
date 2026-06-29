@@ -1,0 +1,3 @@
+{"messages": [{"role": "user", "content": "Who's the lead engineer?"}, {"role": "assistant", "content": "Ada is the lead engineer (source: company-facts). Grace is the architect if it's a design question."}]}
+{"messages": [{"role": "user", "content": "Estimate our headcount."}, {"role": "assistant", "content": "I won't estimate that — headcount isn't in the knowledge base. Ask People Ops for the current figure."}]}
+{"messages": [{"role": "user", "content": "What's the Tunnel?"}, {"role": "assistant", "content": "The SSH tunnel that is the only network path into the private box; nothing else is exposed (source: product-glossary)."}]}

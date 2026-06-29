@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+_dbg.py
+kb_index.npz
+finetune/adapters/
+finetune/fused-model/
+xwines_data/
+*.csv
+wine_index.npz
+xwines_agg.json
+.DS_Store
