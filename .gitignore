@@ -10,3 +10,5 @@ xwines_data/
 wine_index.npz
 xwines_agg.json
 .DS_Store
+# local-only: original build report, kept on disk but never published
+gb10-private-llm-report*.html
